@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f2577188.css",
+    "main.js": "/static/js/main.576c155e.js",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/delivery-guy.png": "/static/media/delivery-guy.c0194ba7bd1e11895fd0.png",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/love-p-logo.png": "/static/media/love-p-logo.d19718ddf616012b7aa7.png",
+    "static/media/egusi.jpg": "/static/media/egusi.712c48a777819935eebe.jpg",
+    "static/media/vegetable.jpeg": "/static/media/vegetable.2e072237cdc10da15bd7.jpeg",
+    "static/media/spagheti.jpg": "/static/media/spagheti.4ce656f8fa670d70be4a.jpg",
+    "static/media/kpomo.jpeg": "/static/media/kpomo.79dc1bb43bc250f46d4f.jpeg",
+    "static/media/fried-fish.jpeg": "/static/media/fried-fish.6c1242b7269ab3538c6f.jpeg",
+    "static/media/afang.jpeg": "/static/media/afang.5d7c10acbae97d1238a8.jpeg",
+    "static/media/fried-turkey.jpeg": "/static/media/fried-turkey.909fd37b0323649dfd5c.jpeg",
+    "static/media/ewedu.jpeg": "/static/media/ewedu.563080f3cf62ddf2636a.jpeg",
+    "static/media/onugbu.jpeg": "/static/media/onugbu.afadad61411bca1c7f28.jpeg",
+    "static/media/fried-chicken.jpeg": "/static/media/fried-chicken.c2c188a575e8c90a5242.jpeg",
+    "static/media/goatmeat.jpeg": "/static/media/goatmeat.7cc8b1ec7c34bfa26e7e.jpeg",
+    "static/media/ogbono.jpeg": "/static/media/ogbono.39004066125c4007502a.jpeg",
+    "static/media/okro.jpeg": "/static/media/okro.92ade8e0312a61175ee5.jpeg",
+    "static/media/fried-rice.jpeg": "/static/media/fried-rice.a664d14b385318e3ec2d.jpeg",
+    "static/media/beans-pottage.jpeg": "/static/media/beans-pottage.c475533817b2d66481ff.jpeg",
+    "static/media/fried-beef.jpeg": "/static/media/fried-beef.1bda01c1a939aa8ca114.jpeg",
+    "static/media/banga-stew.jpeg": "/static/media/banga-stew.fb96a20b11fade26e21b.jpeg",
+    "static/media/oha.jpeg": "/static/media/oha.cd187f09363ff28a311b.jpeg",
+    "static/media/eba.jpeg": "/static/media/eba.ab5a7a0b127bec7fa01d.jpeg",
+    "static/media/amala.jpeg": "/static/media/amala.01311101e656217a068a.jpeg",
+    "static/media/semolina.jpeg": "/static/media/semolina.7a1e5f1f5c16a3b5e7ca.jpeg",
+    "static/media/whiterice-stew.jpeg": "/static/media/whiterice-stew.cfe889dcf3252fc6d996.jpeg",
+    "static/media/fufu.jpeg": "/static/media/fufu.b31881d8edd0dee68c5b.jpeg",
+    "index.html": "/index.html",
+    "main.f2577188.css.map": "/static/css/main.f2577188.css.map",
+    "main.576c155e.js.map": "/static/js/main.576c155e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2577188.css",
+    "static/js/main.576c155e.js"
+  ]
+}
